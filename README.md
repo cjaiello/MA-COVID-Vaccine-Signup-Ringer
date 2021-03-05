@@ -12,7 +12,6 @@ By Christina Aiello
 * In the upper right corner, click the switch to turn on Developer Tools
 * In the upper left corner, click the "Load unpacked" button
 * Click on the folder (not the zip folder, but the unzipped folder) for this extension
-* Make sure the blue dot in the "on/off" switch is to the right, meaning the extension is on
 ![Gif of How to Install](/images/how-to-install.gif)
 ^ Click this image to see a larger version of it
 
@@ -39,3 +38,6 @@ By Christina Aiello
 ![Sign Up Form](/images/promo-4.png)
 
 ^ Click this image to see a larger version of it
+
+### Here are the instructions in gif form:
+![Instructions](/images/instructions.gif)
