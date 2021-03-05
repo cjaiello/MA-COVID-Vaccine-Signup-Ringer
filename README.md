@@ -11,6 +11,7 @@ By Christina Aiello
 * Click on the folder (not the zip folder, but the unzipped folder) for this extension
 * Make sure the blue dot in the "on/off" switch is to the right, meaning the extension is on
 ![Gif of How to Install](/images/how-to-install.gif)
+^ Click this image to see a larger version of it
 
 ## Instructions
 * When you go to maimmunizations.org, you will see a modal with instructions, which say:
