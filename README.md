@@ -20,15 +20,22 @@ By Christina Aiello
 * When you go to maimmunizations.org, you will see a modal with instructions, which say:
 "For this extension to be allowed to make noise, Google Chrome requires you to interact with the page before it can produce sounds. Please click anywhere on the page. It doesn't need to be a link – you can click on any text, image, or blank white space on the page. Doing this will tell Chrome you allow sound. You will hear a test ringing noise first, to confirm you have allowed sound."
 ![Instructions Alert](/images/promo-1.png)
+
 ^ Click this image to see a larger version of it
+
 * If you do click in the right place, you will see a success alert and hear a brief test noise.
 ![Test Sound Confirmation Alert](/images/promo-2.png)
+
 ^ Click this image to see a larger version of it
+
   * Once you've seen this alert, you are all set.
 * If you do not click somewhere on the page to give sound permissions, you will see:
 ![Need Sound Permissions Alert](/images/promo-3.png)
+
 ^ Click this image to see a larger version of it
+
 * If you see the above, it means you still need to click somewhere (anywhere) on the page to give sound permissions to this extension
 * When the www.maimmunizations.org page changes to show the Sign Up search form, you will hear five rings.
 ![Sign Up Form](/images/promo-4.png)
+
 ^ Click this image to see a larger version of it
