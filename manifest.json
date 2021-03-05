@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
-    "name": "MA Vaccine Signup Ringer",
-    "description": "Rings When Time to Sign Up For Vaccine",
+    "name": "MA COVID Vaccine Signup Ringer",
+    "description": "Rings When Time to Sign Up For COVID Vaccine on maimmunizations.org",
     "version": "1.0",
     "content_scripts": [
         {
