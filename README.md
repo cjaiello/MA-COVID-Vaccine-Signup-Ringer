@@ -1,12 +1,14 @@
 # MA COVID Vaccine Signup Ringer
-*Chrome Extension for Getting an Audio Alert When It's Your Turn on www.maimmunizations.org to Sign Up for the COVID Vaccine*
+
+**Chrome Extension for Getting an Audio Alert When It's Your Turn on www.maimmunizations.org to Sign Up for the COVID Vaccine**
+
 By Christina Aiello
 
 ## Installation
-* Download the extension: 
+* Download the extension: https://github.com/cjaiello/MA-COVID-Vaccine-Signup-Ringer/raw/main/MA-COVID-Vaccine-Signup-Ringer.zip
   * It will be in the Chrome Extension Store soon. It's currently pending approval.
-* Unzip the folder
-* Go to the Extensions tab in chrome 
+* Unzip the folder on your computer
+* Go to the Extensions tab in Chrome 
 * In the upper right corner, click the switch to turn on Developer Tools
 * In the upper left corner, click the "Load unpacked" button
 * Click on the folder (not the zip folder, but the unzipped folder) for this extension
