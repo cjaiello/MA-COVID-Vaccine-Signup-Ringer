@@ -21,3 +21,4 @@ By Christina Aiello
   * Once you've seen this alert, you are all set.
 * If you do not click somewhere on the page to give sound permissions, you will see:
 ![Need Sound Permissions Alert](/images/promo-3.png)
+* If you see the above, it means you still need to click somewhere (anywhere) on the page to give sound permissions to this extension
