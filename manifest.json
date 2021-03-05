@@ -15,10 +15,7 @@
         }
     ],
     "permissions": [
-          "storage",
-          "*://*/*",
-          "tabs",
-          "notifications"
+          "storage"
     ],
     "web_accessible_resources": [
         "sounds/ring.mp3",
