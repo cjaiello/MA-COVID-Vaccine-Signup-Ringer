@@ -33,11 +33,6 @@ I have a demo video here: https://youtu.be/CSqCguaFOug and I also have instructi
 
 ^ Click these images to see larger versions
 
-Video demo: https://youtu.be/CSqCguaFOug
-
-### Here are the instructions in gif form:
-![Instructions](/images/instructions.gif)
-
 ## Installation
 To use the extension, you need to download and install it with the steps below.
 * Download the extension: https://github.com/cjaiello/MA-COVID-Vaccine-Signup-Ringer/raw/main/MA-COVID-Vaccine-Signup-Ringer.zip
