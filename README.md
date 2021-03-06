@@ -8,12 +8,16 @@ By Christina Aiello
 * Download the extension: https://github.com/cjaiello/MA-COVID-Vaccine-Signup-Ringer/raw/main/MA-COVID-Vaccine-Signup-Ringer.zip
   * It will be in the Chrome Extension Store soon. It's currently pending approval.
 * Unzip the folder on your computer
-* Go to your extensions in Chromem (either copy and paste chrome://extensions/ into your browser, or go to the three dots menu, click More Tools, and click Extensions)
+* Here is a gif of full installation instructions, and steps are written out below this gif:
+
+![Gif of How to Install](/images/how-to-install.gif)
+
+^ Click this image to see a larger version of it
+
+* Go to your extensions in Chrome (either copy and paste chrome://extensions/ into your browser, or go to the three dots menu, click More Tools, and click Extensions)
 * In the upper right corner, click the switch to turn on Developer Tools
 * In the upper left corner, click the "Load unpacked" button
 * Click on the folder (not the zip folder, but the unzipped folder) for this extension
-![Gif of How to Install](/images/how-to-install.gif)
-^ Click this image to see a larger version of it
 
 ## How to Uninstall and Reinstall
 * Go to your extensions in Chrome (either copy and paste chrome://extensions/ into your browser, or go to the three dots menu, click More Tools, and click Extensions)
