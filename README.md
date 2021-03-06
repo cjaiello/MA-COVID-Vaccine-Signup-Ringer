@@ -22,7 +22,8 @@ By Christina Aiello
 ![Uninstall 1](/images/promo-5.png)
 
 * Click "Remove" again to finish uninstalling
-![Uninstall 1](/images/promo-6.png)
+
+![Uninstall 2](/images/promo-6.png)
 
 * Now you can do the installation instructions again, which are right above this!
 
