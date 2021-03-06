@@ -6,7 +6,42 @@ By Christina Aiello
 
 Demo Video: https://youtu.be/CSqCguaFOug
 
+
+## How to Use the Extension
+* When you go to maimmunizations.org, you will see a modal with instructions, which say:
+* 
+*"For this extension to be allowed to make noise, Google Chrome requires you to interact with the page before it can produce sounds. Please click anywhere on the page. It doesn't need to be a link – you can click on any text, image, or blank white space on the page. Doing this will tell Chrome you allow sound. You will hear a test ringing noise first, to confirm you have allowed sound."* 
+
+The modal looks like this:
+![Instructions Alert](/images/promo-1.png)
+
+^ Click this image to see a larger version of it
+
+* If you do click in the right place, you will see a success alert and hear a brief test noise:
+![Test Sound Confirmation Alert](/images/promo-2.png)
+
+^ Click this image to see a larger version of it
+
+  * Once you've seen this alert, you are all set.
+* If you do not click somewhere on the page to give sound permissions, you will see:
+![Need Sound Permissions Alert](/images/promo-3.png)
+
+^ Click this image to see a larger version of it
+
+* If you see the above, it means you still need to click somewhere (anywhere) on the page to give sound permissions to this extension
+* When the www.maimmunizations.org page changes to show the Sign Up search form (or to show the pre-signup page, which apparently only sometimes shows up for people), you will hear five rings. When the website displays either of these pages, it means it's your turn, and that is when the extension will ring:
+![Sign Up Form](/images/promo-4.png)
+![Page Before Sign Up Form](/images/promo-5.png)
+
+^ Click these images to see larger versions
+
+Video demo: https://youtu.be/CSqCguaFOug
+
+### Here are the instructions in gif form:
+![Instructions](/images/instructions.gif)
+
 ## Installation
+To use the extension, you need to download and install it with the steps below.
 * Download the extension: https://github.com/cjaiello/MA-COVID-Vaccine-Signup-Ringer/raw/main/MA-COVID-Vaccine-Signup-Ringer.zip
   * It will be in the Chrome Extension Store soon. It's currently pending approval.
 * Unzip the folder on your computer
@@ -33,32 +68,3 @@ Demo Video: https://youtu.be/CSqCguaFOug
   * Click "Remove" in the box for the extension
   * Click "Remove" again to finish uninstalling
   * Now you can do the installation instructions again, which are right above this!
-
-## Instructions
-* When you go to maimmunizations.org, you will see a modal with instructions, which say:
-"For this extension to be allowed to make noise, Google Chrome requires you to interact with the page before it can produce sounds. Please click anywhere on the page. It doesn't need to be a link – you can click on any text, image, or blank white space on the page. Doing this will tell Chrome you allow sound. You will hear a test ringing noise first, to confirm you have allowed sound." The modal looks like this:
-![Instructions Alert](/images/promo-1.png)
-
-^ Click this image to see a larger version of it
-
-* If you do click in the right place, you will see a success alert and hear a brief test noise:
-![Test Sound Confirmation Alert](/images/promo-2.png)
-
-^ Click this image to see a larger version of it
-
-  * Once you've seen this alert, you are all set.
-* If you do not click somewhere on the page to give sound permissions, you will see:
-![Need Sound Permissions Alert](/images/promo-3.png)
-
-^ Click this image to see a larger version of it
-
-* If you see the above, it means you still need to click somewhere (anywhere) on the page to give sound permissions to this extension
-* When the www.maimmunizations.org page changes to show the Sign Up search form, you will hear five rings.
-![Sign Up Form](/images/promo-4.png)
-
-^ Click this image to see a larger version of it
-
-Video demo: https://youtu.be/CSqCguaFOug
-
-### Here are the instructions in gif form:
-![Instructions](/images/instructions.gif)
