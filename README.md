@@ -21,16 +21,22 @@ By Christina Aiello
   * Click on the folder (not the zip folder, but the unzipped folder) for this extension
 
 ## How to Uninstall and Reinstall
-* Go to your extensions in Chrome (either copy and paste chrome://extensions/ into your browser, or go to the three dots menu, click More Tools, and click Extensions)
-* Click "Remove" in the box for the extension
+
+* Here is a gif of full installation instructions, and steps are written out below this gif:
+
+![Gif of How to Uninstall and Reinstall](/images/how-to-uninstall-and-reinstall.gif)
+
+* Steps shown in the gif:
+  * Go to your extensions in Chrome (either copy and paste chrome://extensions/ into your browser, or go to the three dots menu, click More Tools, and click Extensions)
+  * Click "Remove" in the box for the extension
 
 ![Uninstall 1](/images/promo-5.png)
 
-* Click "Remove" again to finish uninstalling
+  * Click "Remove" again to finish uninstalling
 
 ![Uninstall 2](/images/promo-6.png)
 
-* Now you can do the installation instructions again, which are right above this!
+  * Now you can do the installation instructions again, which are right above this!
 
 ## Instructions
 * When you go to maimmunizations.org, you will see a modal with instructions, which say:
