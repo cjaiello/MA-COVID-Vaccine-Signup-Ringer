@@ -38,6 +38,7 @@ I have a demo video here: https://youtu.be/CSqCguaFOug and I also have instructi
 ![Page Before Sign Up Form](/images/promo-5.png)
 
 ^ Click these images to see larger versions
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -61,6 +62,7 @@ To use the extension, you need to download and install it with the steps below.
   * In the upper right corner, click the switch to turn on Developer Mode
   * In the upper left corner, click the "Load unpacked" button
   * Click on the folder (not the zip folder, but the unzipped folder) for this extension
+
 &nbsp;
 &nbsp;
 &nbsp;
