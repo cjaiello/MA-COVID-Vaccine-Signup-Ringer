@@ -21,6 +21,8 @@ I have a demo video here: https://youtu.be/CSqCguaFOug and I also have instructi
 * When you go to maimmunizations.org, you will see a modal with instructions, which say: *"For this extension to be allowed to make noise, Google Chrome requires you to interact with the page before it can produce sounds. Please click anywhere on the page. It doesn't need to be a link – you can click on any text, image, or blank white space on the page. Doing this will tell Chrome you allow sound. You will hear a test ringing noise first, to confirm you have allowed sound."* That modal looks like this:
 ![Instructions Alert](/images/promo-1.png)
 
+* You will only ever see the above modal with instructions once.
+
 * If you do click in the right place, you will see a success alert and hear a brief test noise:
 ![Test Sound Confirmation Alert](/images/promo-2.png)
 
