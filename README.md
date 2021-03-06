@@ -4,6 +4,8 @@
 
 By Christina Aiello
 
+Demo Video: https://youtu.be/CSqCguaFOug
+
 ## Installation
 * Download the extension: https://github.com/cjaiello/MA-COVID-Vaccine-Signup-Ringer/raw/main/MA-COVID-Vaccine-Signup-Ringer.zip
   * It will be in the Chrome Extension Store soon. It's currently pending approval.
@@ -55,6 +57,8 @@ By Christina Aiello
 ![Sign Up Form](/images/promo-4.png)
 
 ^ Click this image to see a larger version of it
+
+Video demo: https://youtu.be/CSqCguaFOug
 
 ### Here are the instructions in gif form:
 ![Instructions](/images/instructions.gif)
