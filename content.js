@@ -81,7 +81,8 @@ function setUpIntervalToCheckForSignupPage() {
 // Checks the page to see if this is the signup page.
 // @param timer: The timer object that we will cancel once we've rung
 function lookForSignup(timer) {
-    var textToLookFor = "Search by".toLowerCase();
+    var textToLookFor1 = "Search by".toLowerCase();
+    var textToLookFor2 = "ONLY by prioritized individuals".toLowerCase();
     var now = new Date().toLocaleString();
     log(`Checking if this is the signup page at ${now}`);
     var elements = document.getElementsByTagName('*');
@@ -94,7 +95,7 @@ function lookForSignup(timer) {
             if (node.nodeType === Node.TEXT_NODE)
             {
                 var text = node.nodeValue.toLowerCase();
-                if (text.includes(textToLookFor)) {
+                if ((text.includes(textToLookFor1)) || (text.includes(textToLookFor2))) {
                     // As soon as we find the right text, 
                     // ring and then stop searching the page
                     ring();
