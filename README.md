@@ -29,13 +29,7 @@ By Christina Aiello
 * Steps shown in the gif:
   * Go to your extensions in Chrome (either copy and paste chrome://extensions/ into your browser, or go to the three dots menu, click More Tools, and click Extensions)
   * Click "Remove" in the box for the extension
-
-![Uninstall 1](/images/promo-5.png)
-
   * Click "Remove" again to finish uninstalling
-
-![Uninstall 2](/images/promo-6.png)
-
   * Now you can do the installation instructions again, which are right above this!
 
 ## Instructions
