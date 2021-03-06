@@ -44,6 +44,10 @@ I have a demo video here: https://youtu.be/CSqCguaFOug and I also have instructi
 To use the extension, you need to download and install it with the steps below.
 * Download the extension: https://github.com/cjaiello/MA-COVID-Vaccine-Signup-Ringer/archive/main.zip
   * It will be in the Chrome Extension Store soon. It's currently pending approval.
+  * This ZIP file is created by Github, not by me. That link above is the same link you hit if you click 'Code' and then 'Download ZIP':
+
+![Where ZIP Comes From](/images/where-zip-comes-from.png)
+
 * Unzip the folder on your computer
 * Here is a gif of the rest of the installation steps, and the steps are also written out below this gif:
 
