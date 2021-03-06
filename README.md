@@ -53,10 +53,11 @@ Demo Video: https://youtu.be/CSqCguaFOug
 ^ Click this image to see a larger version of it
 
 * If you see the above, it means you still need to click somewhere (anywhere) on the page to give sound permissions to this extension
-* When the www.maimmunizations.org page changes to show the Sign Up search form, you will hear five rings.
+* When the www.maimmunizations.org page changes to show the Sign Up search form (or to show the pre-signup page, which apparently only sometimes shows up for people), you will hear five rings. When the website displays either of these pages, it means it's your turn, and that is when the extension will ring:
 ![Sign Up Form](/images/promo-4.png)
+![Page Before Sign Up Form](/images/promo-5.png)
 
-^ Click this image to see a larger version of it
+^ Click these images to see larger versions
 
 Video demo: https://youtu.be/CSqCguaFOug
 
