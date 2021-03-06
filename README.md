@@ -14,10 +14,11 @@ By Christina Aiello
 
 ^ Click this image to see a larger version of it
 
-* Go to your extensions in Chrome (either copy and paste chrome://extensions/ into your browser, or go to the three dots menu, click More Tools, and click Extensions)
-* In the upper right corner, click the switch to turn on Developer Tools
-* In the upper left corner, click the "Load unpacked" button
-* Click on the folder (not the zip folder, but the unzipped folder) for this extension
+* Steps shown in the gif:
+  * Go to your extensions in Chrome (either copy and paste chrome://extensions/ into your browser, or go to the three dots menu, click More Tools, and click Extensions)
+  * In the upper right corner, click the switch to turn on Developer Tools
+  * In the upper left corner, click the "Load unpacked" button
+  * Click on the folder (not the zip folder, but the unzipped folder) for this extension
 
 ## How to Uninstall and Reinstall
 * Go to your extensions in Chrome (either copy and paste chrome://extensions/ into your browser, or go to the three dots menu, click More Tools, and click Extensions)
