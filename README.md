@@ -6,6 +6,8 @@ By Christina Aiello
 
 Demo Video: https://youtu.be/CSqCguaFOug
 
+![Gif of How to Use](/images/how-to-use.gif)
+
 &nbsp;
 &nbsp;
 &nbsp;
